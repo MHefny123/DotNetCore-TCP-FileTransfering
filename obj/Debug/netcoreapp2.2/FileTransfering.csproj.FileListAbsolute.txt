@@ -1,0 +1,2 @@
+/home/mhefny/VSCodeProjects/Consoles/FileTransfering/obj/Debug/netcoreapp2.2/FileTransfering.csprojAssemblyReference.cache
+/home/mhefny/VSCodeProjects/Consoles/FileTransfering/obj/Debug/netcoreapp2.2/FileTransfering.csproj.GenerateResource.cache
