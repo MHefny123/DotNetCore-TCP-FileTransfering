@@ -7,7 +7,7 @@ namespace FileTransfering
 
     class Program
     {
-
+          // Validated and tested
         //settings
         bool mode;//mode [true send] [false receive]
         string output_PATH = @"Download\";//files gotten
